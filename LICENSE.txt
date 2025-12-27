@@ -18,19 +18,37 @@ This project is intended for learning, experimentation, and personal enjoyment.
 
 ---
 
-## 2. Non‑Commercial Use Only
+## 2. Audio Content Notice
+The Software does **not** include any audio files, music, sound effects, or copyrighted media.  
+Users must manually obtain their own audio files and are fully responsible for ensuring all audio is acquired legally and used in compliance with applicable laws.  
+The Licensor provides **no audio content** and assumes **no responsibility** for how users obtain, add, or use audio files.
+
+---
+
+## 3. Non‑Commercial Use Only
 The Software may **not** be used for any commercial purpose. This includes:
 - selling access to the bot  
 - charging users to use a hosted instance  
 - offering paid hosting services  
-- accepting donations specifically in exchange for hosting or access  
+- accepting donations in exchange for hosting or access  
 - running the bot as a subscription or premium service  
 
-This project is meant to support education and personal use, not commercial activity.
+This project is strictly for educational and personal use.
 
 ---
 
-## 3. Hosting Guidelines
+## 4. Conditional Commercial Exception
+Commercial use is only permitted if:
+- all applicable laws are followed  
+- no liability, responsibility, or blame is placed on the Licensor  
+- the Licensor is not associated with or responsible for the commercial activity  
+- the Software is not misrepresented as being created, endorsed, or supported by the Licensor  
+
+Failure to meet these conditions voids all permissions.
+
+---
+
+## 5. Hosting Guidelines
 Users may host the bot:
 - on their own computer  
 - on any VPS  
@@ -46,7 +64,7 @@ Hosting is allowed for personal, educational, and community use only.
 
 ---
 
-## 4. Redistribution Rules
+## 6. Redistribution Rules
 Redistribution is allowed only if:
 - the project remains open source  
 - this license text is included  
@@ -55,7 +73,7 @@ Redistribution is allowed only if:
 
 ---
 
-## 5. Mandatory Bot Description
+## 7. Mandatory Bot Description
 Any public instance of the bot must include the following line:
 
 **“This is an open‑source bot based on the Discord Music Bot project.”**
@@ -64,35 +82,42 @@ This ensures transparency and proper attribution.
 
 ---
 
-## 6. Restrictions
+## 8. Restrictions
 Users may **not**:
 - remove or alter author credit  
 - claim exclusive ownership of the Software  
 - misrepresent the origin of the Software  
 - use the Software for illegal or harmful purposes  
+- imply that the Licensor is responsible for user‑added audio or actions  
 
 ---
 
-## 7. Ownership
+## 9. Ownership
 The Software is open source, but ownership and authorship remain with **CodeBullet23**.
 
 ---
 
-## 8. Disclaimer of Warranty
+## 10. Disclaimer of Warranty
 The Software is provided **“as is”** without any warranties, express or implied.  
-Users assume all responsibility for using or modifying the Software.
+Users assume all responsibility for using, modifying, or adding content to the Software.
 
 ---
 
-## 9. Limitation of Liability
-The Licensor is not responsible for any damages resulting from the use of, or inability to use, the Software.
+## 11. Limitation of Liability
+The Licensor is not responsible for:
+- damages resulting from use or misuse of the Software  
+- legal issues arising from user‑added audio files  
+- losses, claims, or disputes caused by user actions  
+- any assumption of responsibility placed on the Licensor  
+
+Users agree that the Licensor cannot be blamed or held liable for any outcome.
 
 ---
 
-## 10. Governing Law
+## 12. Governing Law
 This Agreement is governed by the laws of **Canada**.
 
 ---
 
-## 11. Acceptance
+## 13. Acceptance
 By using, modifying, or distributing the Software, the user agrees to this License.
