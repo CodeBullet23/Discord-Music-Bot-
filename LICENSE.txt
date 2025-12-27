@@ -1,0 +1,99 @@
+📄 SentinelWaveFM License Agreement (Open Source, Non‑Commercial)
+Licensor: CodeBullet23  
+Primary Identity: CodeBullet (Discord username: yoshi12345700)
+Software: SentinelWaveFM  
+Effective Date: [2025-12-27]
+
+1. Open‑Source Permission
+The Licensor grants the Licensee permission to:
+
+Use, view, and modify the source code
+
+Change the name of the application
+
+Run their own instance of the Software
+
+Share modified versions as long as this license remains included
+
+SentinelWaveFM is an open‑source project created for fun, education, and community enjoyment.
+
+2. Non‑Commercial Use Only
+The Software may not be used for any commercial purpose, including:
+
+Selling access to the bot
+
+Charging users to use a hosted instance
+
+Offering paid hosting services for the bot
+
+Accepting donations specifically in exchange for access to the bot or hosting the bot
+
+Running the bot as a subscription, premium, or paid service
+
+This project exists to give people a free alternative to paid Discord music bots and to encourage learning.
+
+3. Hosting Rules
+✔️ Allowed Hosting
+Licensees may host the bot using:
+
+Their own computer
+
+Any VPS or cloud provider
+
+Any hosting service
+
+As long as:
+
+They are not making any profit from the bot
+
+They are not charging other people to use their hosted instance
+
+They are not selling access, subscriptions, or “hosting plans” for the bot
+
+❗ Clarification
+Licensees do not need special permission to choose a hosting provider.
+They may host it anywhere they want, as long as they follow the non‑commercial rule.
+
+4. Redistribution Rules
+Licensees may redistribute the Software only if:
+
+It remains open source
+
+This license text is included
+
+Credit to CodeBullet23 is preserved
+
+No commercial use is added
+
+5. Mandatory Bot Description
+Any public instance of the bot must include the following text (or a clearly equivalent statement) in its description:
+
+“This is an open‑source bot based on SentinelWaveFM.”
+
+This ensures transparency and proper attribution.
+
+6. Restrictions
+Licensees may not:
+
+Remove or alter author credit
+
+Claim exclusive ownership of the Software
+
+Misrepresent the origin of the Software
+
+Use the Software for illegal or harmful purposes
+
+7. Ownership
+The Software is open source, but ownership and authorship remain with CodeBullet23.
+
+8. Disclaimer of Warranty
+The Software is provided “as is” without any warranties, express or implied.
+
+9. Limitation of Liability
+The Licensor is not responsible for any damages resulting from the use of, or inability to use, the Software.
+
+10. Governing Law
+This Agreement is governed by the laws of Canada.
+
+11. Acceptance
+By using or modifying the Software, the Licensee agrees to this License.
